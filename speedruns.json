@@ -1,5 +1,68 @@
 {
-    [
-       
+    "Hollow Knight": [
+        {
+            "time": "10:30:10.00",
+            "user": "derkaiyo",
+            "placement": 1
+        },
+        {
+            "time": "49:59:59.94",
+            "user": "derkaiyo",
+            "placement": 2
+        },
+        {
+            "time": "99:59:59.94",
+            "user": "derkaiyo",
+            "placement": 3
+        }
+    ],
+    "Celeste": [
+        {
+            "time": "00:51:14.484",
+            "user": "loxi_ow",
+            "placement": 1
+        },
+        {
+            "time": "01:04:03.581",
+            "user": "nikelasias",
+            "placement": 2
+        },
+        {
+            "time": "01:04:56.417",
+            "user": "nikelasias",
+            "placement": 3
+        },
+        {
+            "time": "01:07:10.275",
+            "user": "nicdoe",
+            "placement": 4
+        },
+        {
+            "time": "01:07:36.94",
+            "user": "nikelasias",
+            "placement": 5
+        },
+        {
+            "time": "01:16:14.547",
+            "user": "nikelasias",
+            "placement": 6
+        },
+        {
+            "time": "91:16:14.547",
+            "user": "derkaiyo",
+            "placement": 7
+        },
+        {
+            "time": "99:59:59.94",
+            "user": "derkaiyo",
+            "placement": 8
+        }
+    ],
+    "Test Wie Lange Titel Für Ein Game Sein Können": [
+        {
+            "time": "90:30:10.00",
+            "user": "derkaiyo",
+            "placement": 1
+        }
     ]
 }
